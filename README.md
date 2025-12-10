@@ -1,4 +1,4 @@
-# Sasa - Secret Santa Discord Bot
+# Sesa - Secret Santa Discord Bot
 
 A Discord bot for organizing and automating Secret Santa gift exchanges within Discord servers.
 
